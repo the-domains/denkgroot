@@ -1,0 +1,14 @@
+layout_spectrum: 0.1864869382698089
+typography_spectrum: 0.3656182528939098
+color:
+  brandStrength: 0.10499346535652876
+  lightness: 0.8984416550956666
+  saturation: 0.8570014624856412
+  rhythmicContrast: 0.8603294736240059
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: denkGroot
