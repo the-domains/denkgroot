@@ -1,4 +1,3 @@
-layout_spectrum: 0.1864869382698089
 typography_spectrum: 0.3656182528939098
 color:
   brandStrength: 0.10499346535652876
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.1864869382698089
 name: denkGroot
 title: Hoi man
+description: toffe website
